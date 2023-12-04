@@ -14,16 +14,16 @@ I was planning on generating a new server link every time a Cal.com invitation i
 Since this was a 1 person team effort, I couldn't stream my dialogue data and instead had to pass in the audio once it was done recording, which isn't ideal since the Speech-Recognition model would read all this at once, which takes a lot of time. 
 
 ## Demo as of December 3rd: 
-Step 1: IOS App Screenshots 
+### Step 1: IOS App Screenshots 
 
 
-Step 2: OUTPUT of Speech to Text Results: 
+### Step 2: OUTPUT of Speech to Text Results: 
 "Text from audio:  begin today that's all the notes said there was no indication from where it came or who may have written it had it been meant for someone else Megan looked around the room but nobody made eye contact back for a brief moment she thought it might be a message for her to follow her dreams but ultimately decided it was easier to ignore it as she crumpled it up and threw it away"
 
-Step 3: OUTPUT of GPT Key Insights from Audio Text
+### Step 3: OUTPUT of GPT Key Insights from Audio Text
 "ChatCompletionMessage(content='Summary: Megan discovers a note without any clear source or intended recipient. She considers the possibility that it could be a message for her to follow her dreams but ultimately chooses to ignore it, dismissing it as an insignificant message.\n\nKey takeaways:\n1. Megan finds a note without any identifiable origin or recipient.\n2. The note does not provide any indication of its purpose or intended audience.\n3. Megan briefly entertains the idea that the note may be encouraging her to pursue her dreams.\n4. However, she ultimately chooses to disregard the note and throws it away.', role='assistant', function_call=None, tool_calls=None)"
 
-Step 4: Sending message on Discord Screenshot
+### Step 4: Sending message on Discord Screenshot
 <img width="835" alt="Screenshot 2023-12-04 at 5 26 01 PM" src="https://github.com/MaanasPeri23/Tangerine/assets/43656322/ee6af4d5-96d3-4afa-b757-abc3c405dce0">
 
 ## Citations (coming soon) 
