@@ -15,6 +15,8 @@ Since this was a 1 person effort (not including GPT), I couldn't stream my dialo
 
 ## Demo as of December 3rd: 
 ### Step 1: IOS App Screenshots 
+![simulator_screenshot_BF409A62-C381-4409-B1E5-378935CE857F](https://github.com/MaanasPeri23/Tangerine/assets/43656322/46c1eb41-5800-4952-9fed-c51ec2f41f27)
+![simulator_screenshot_8DFC23C5-CFB2-4316-B3EA-E38E13F386CB](https://github.com/MaanasPeri23/Tangerine/assets/43656322/ec59b12c-0182-4806-a8c2-5ab4bf681b47)
 
 
 ### Step 2: OUTPUT of Speech to Text Results: 
